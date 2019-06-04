@@ -1,4 +1,4 @@
-
+#python 利用回溯法解决八皇后问题
 def suit(x, y):
     if(x == 0):
         return True;
